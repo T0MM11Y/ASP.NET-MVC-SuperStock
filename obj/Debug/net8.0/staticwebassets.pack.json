@@ -13,12 +13,20 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\image\\RobotProfilz.jpg",
+      "PackagePath": "staticwebassets\\image\\RobotProfilz.jpg"
+    },
+    {
       "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\image\\login.gif",
       "PackagePath": "staticwebassets\\image\\login.gif"
     },
     {
       "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\image\\logo.png",
       "PackagePath": "staticwebassets\\image\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\image\\no-image-available.png",
+      "PackagePath": "staticwebassets\\image\\no-image-available.png"
     },
     {
       "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\js\\site.js",
@@ -251,6 +259,46 @@
     {
       "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\22-16-31-1316292.jpeg",
+      "PackagePath": "staticwebassets\\upload\\22-16-31-1316292.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\IMG-20240218-WA0020.jpg",
+      "PackagePath": "staticwebassets\\upload\\IMG-20240218-WA0020.jpg"
+    },
+    {
+      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\Peringatan Terkait Phishing.jpg",
+      "PackagePath": "staticwebassets\\upload\\Peringatan Terkait Phishing.jpg"
+    },
+    {
+      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\Picsart_24-03-30_09-42-13-960.jpg",
+      "PackagePath": "staticwebassets\\upload\\Picsart_24-03-30_09-42-13-960.jpg"
+    },
+    {
+      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\teacher1.jpg",
+      "PackagePath": "staticwebassets\\upload\\teacher1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\teacher2.jpg",
+      "PackagePath": "staticwebassets\\upload\\teacher2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\teacher3.jpg",
+      "PackagePath": "staticwebassets\\upload\\teacher3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\teacher4.jpg",
+      "PackagePath": "staticwebassets\\upload\\teacher4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\teacher5.jpg",
+      "PackagePath": "staticwebassets\\upload\\teacher5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\teacher6.jpg",
+      "PackagePath": "staticwebassets\\upload\\teacher6.jpg"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ManageMart.Microsoft.AspNetCore.StaticWebAssets.props",

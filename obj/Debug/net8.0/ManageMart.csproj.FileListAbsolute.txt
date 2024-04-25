@@ -103,3 +103,13 @@ C:\Users\T0MM11Y\Documents\MvCd0tNetProyek\ManageMart\bin\Debug\net8.0\ru\Micros
 C:\Users\T0MM11Y\Documents\MvCd0tNetProyek\ManageMart\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\T0MM11Y\Documents\MvCd0tNetProyek\ManageMart\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\T0MM11Y\Documents\MvCd0tNetProyek\ManageMart\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\T0MM11Y\Documents\MvCd0tNetProyek\ManageMart\bin\Debug\net8.0\SixLabors.ImageSharp.dll
+C:\Users\T0MM11Y\Documents\MvCd0tNetProyek\ManageMart\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\T0MM11Y\Documents\MvCd0tNetProyek\ManageMart\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\T0MM11Y\Documents\MvCd0tNetProyek\ManageMart\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\T0MM11Y\Documents\MvCd0tNetProyek\ManageMart\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\T0MM11Y\Documents\MvCd0tNetProyek\ManageMart\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\T0MM11Y\Documents\MvCd0tNetProyek\ManageMart\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\T0MM11Y\Documents\MvCd0tNetProyek\ManageMart\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\T0MM11Y\Documents\MvCd0tNetProyek\ManageMart\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\T0MM11Y\Documents\MvCd0tNetProyek\ManageMart\obj\Debug\net8.0\ManageMart.MvcApplicationPartsAssemblyInfo.cs

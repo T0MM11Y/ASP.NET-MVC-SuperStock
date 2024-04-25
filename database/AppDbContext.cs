@@ -7,12 +7,23 @@ public class AppDbContext : DbContext
     {
     }
 
-    public DbSet<User> Users { get; set; } // Tambahkan ini
-
+    public DbSet<User> Users { get; set; }
+    public DbSet<Seller> Sellers { get; set; }
+    public DbSet<Product> Products { get; set; }
+    public DbSet<Category> Categories { get; set; }
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         base.OnModelCreating(modelBuilder);
 
-        // Anda dapat mengkonfigurasi model lebih lanjut di sini
+        // Konfigurasi relasi
+        modelBuilder.Entity<Product>()
+            .HasOne(p => p.Seller)
+            .WithMany(s => s.Products)
+            .HasForeignKey(p => p.SellerId);
+
+        modelBuilder.Entity<Product>()
+            .HasOne(p => p.Category)
+            .WithMany(c => c.Products)
+            .HasForeignKey(p => p.CategoryId);
     }
 }

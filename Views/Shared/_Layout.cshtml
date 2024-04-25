@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/ManageMart.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 </head>
 
 <body>
@@ -29,19 +30,31 @@
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Seller">Add
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Seller">
                                 Seller</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Seller">Add
+                        <li class="nav-item" style="margin-right: 9px;">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Category" asp-action="Index">Add
                                 Category</a>
                         </li>
+                        <form asp-controller="Admin" asp-action="Logout" method="post">
+                            <a id="logoutLink" class="nav-link text-dark" style="cursor: pointer;">
+                                <i class="fas fa-sign-out-alt text-danger"></i> Logout
+                            </a>
+                        </form>
                     </ul>
-                    <div class="navbar-text">
+                    <div class="navbar-text d-flex align-items-center "> <!-- Add flexbox to align items -->
                         <div class="avatar">
-                            TY
+                            @if (User.IsInRole("admin"))
+                            {
+                                <img class="admin-avatar" src="~/image/RobotProfilz.jpg" alt="Admin Avatar" />
+                            }
+                            else
+                            {
+                                @User.Identity.Name.Substring(0, 2).ToUpper()
+                            }
                         </div>
-                        Tian Yehezkil
+                        @User.Identity.Name
                     </div>
                 </div>
             </div>
@@ -58,8 +71,30 @@
             &copy; 2024 - ManageMart - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
         </div>
     </footer>
+    <script>
+        document.getElementById('logoutLink').addEventListener('click', function (event) {
+            event.preventDefault();
+            swal({
+                title: "Are you sure?",
+                text: "Once logged out, you will need to log in again to access your account.",
+                icon: "warning",
+                buttons: true,
+                dangerMode: true,
+            })
+                .then((willLogout) => {
+                    if (willLogout) {
+                        var form = document.createElement('form');
+                        document.body.appendChild(form);
+                        form.method = 'post';
+                        form.action = '/Admin/Logout';
+                        form.submit();
+                    }
+                });
+        });
+    </script>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
     @await RenderSectionAsync("Scripts", required: false)
 </body>

@@ -1,6 +1,8 @@
 using ManageMart;
 using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Identity.UI;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -14,9 +16,13 @@ builder.Services.AddDbContext<AppDbContext>(options =>
         new MySqlServerVersion(new Version(8, 0, 26)),
         mysqlOptions =>
             mysqlOptions.EnableRetryOnFailure(
-                maxRetryCount: 5, 
-                maxRetryDelay: TimeSpan.FromSeconds(30), 
+                maxRetryCount: 5,
+                maxRetryDelay: TimeSpan.FromSeconds(30),
                 errorNumbersToAdd: null)));
+
+// Add Identity
+builder.Services.AddDefaultIdentity<IdentityUser>()
+    .AddEntityFrameworkStores<AppDbContext>();
 
 // Add Authentication services
 builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
@@ -45,8 +51,8 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Admin}/{action=Index}/{id?}");
+    pattern: "{controller=Category}/{action=Index}/{id?}");
 
-    // pattern: "{controller=Account}/{action=Login}/{id?}");
+// pattern: "{controller=Account}/{action=Login}/{id?}");
 
 app.Run();

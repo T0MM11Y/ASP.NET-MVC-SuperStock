@@ -1,0 +1,126 @@
+@{
+    ViewData["Title"] = "Index";
+}
+<style>
+    .h1class {
+        color: #6c757d;
+        font-size: 1.9em;
+        margin-top: 2%;
+    }
+
+    .header-container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .btn-margin {
+        margin-right: 40px;
+        background-color: #41d0e3;
+        width: 240px;
+
+    }
+
+
+    .btn-margin:hover,
+    .btn-margin:active {
+        background-color: #F1DD6B;
+    }
+
+    .search-input {
+        transition: all 0.3s ease-in-out;
+        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+    }
+
+    .search-input:hover {
+        box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+    }
+
+    .search-input:focus {
+        outline: none;
+        box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+    }
+</style>
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css">
+<div class="header-container">
+    <div>
+        <h1 class="h1class">Category Of Product</h1>
+        <p>Use this page to manage Category of product at this mart.</p>
+    </div>
+    <div class="d-flex justify-content-end align-items-center">
+        <button class="btn btn-primary btn-margin" data-toggle="modal" data-target="#addCategoryModal">Add
+            Category</button>
+        <div class="input-group search-bar">
+            <input type="text" class="form-control search-input" placeholder="Search Category 🔍" id="searchInput">
+            <div class="input-group-append">
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@model IEnumerable<ManageMart.Category>
+
+<div class="row">
+    @foreach (var category in Model)
+    {
+        <div class="col-sm-4 mt-4">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">@category.Name</h5>
+                    <p class="card-text">@category.Description</p>
+                    <a href="#" class="btn btn-primary">Detail</a>
+                    <a href="#" class="btn btn-danger">Hapus</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+
+
+<div class="modal fade" id="addCategoryModal" tabindex="-1" role="dialog" aria-labelledby="addCategoryModalLabel"
+    aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header bg-info text-white">
+                <h5 class="modal-title" id="addCategoryModalLabel">Add Category</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form method="post" asp-controller="Category" asp-action="Create" enctype="multipart/form-data">
+                    <div class="form-row">
+                        <div class="form-group ">
+                            <label for="categoryName">Name</label>
+                            <input type="text" class="form-control" id="Name" placeholder="Masukkan Nama Category"
+                                required name="Name">
+                        </div>
+                        <div class="form-group">
+                            <label for="categoryDescription">Description</label>
+                            <textarea class="form-control" id="Description" rows="3"
+                                placeholder="Masukkan Deskripsi Category" required name="Description"></textarea>
+
+                        </div>
+
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                            <button type="submit" class="btn btn-info">Save changes</button>
+                        </div>
+                </form>
+
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
