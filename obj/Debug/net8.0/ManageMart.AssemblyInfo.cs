@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ManageMart")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99a0b3333fe3e44f0dd775711012dc0fcf1f94dd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58502b969b7cb65585e36a76898a9097b183f69c")]
 [assembly: System.Reflection.AssemblyProductAttribute("ManageMart")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ManageMart")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

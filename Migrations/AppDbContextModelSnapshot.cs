@@ -56,10 +56,6 @@ namespace ManageMart.Migrations
                     b.Property<DateTime>("CreatedAt")
                         .HasColumnType("datetime(6)");
 
-                    b.Property<string>("Description")
-                        .IsRequired()
-                        .HasColumnType("longtext");
-
                     b.Property<DateTime>("ExpiredAt")
                         .HasColumnType("datetime(6)");
 
@@ -130,6 +126,10 @@ namespace ManageMart.Migrations
                         .IsRequired()
                         .HasColumnType("longtext");
 
+                    b.Property<string>("UserId")
+                        .IsRequired()
+                        .HasColumnType("longtext");
+
                     b.Property<string>("Username")
                         .IsRequired()
                         .HasColumnType("longtext");
@@ -162,6 +162,15 @@ namespace ManageMart.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Users");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            Password = "admin",
+                            Role = "admin",
+                            Username = "admin"
+                        });
                 });
 
             modelBuilder.Entity("ManageMart.Product", b =>

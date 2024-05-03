@@ -1,5 +1,179 @@
 @{
     ViewData["Title"] = "Index";
 }
+@model DashboardViewModel
+<style>
+    body {
+        background: #FAFAFA;
+    }
 
-<h2>Admin</h2>
+    .order-card {
+        color: #fff;
+    }
+
+    .bg-c-blue {
+        background: linear-gradient(45deg, #4099ff, #73b4ff);
+    }
+
+    .bg-c-green {
+        background: linear-gradient(45deg, #2ed8b6, #59e0c5);
+    }
+
+    .bg-c-yellow {
+        background: linear-gradient(45deg, #FFB64D, #ffcb80);
+    }
+
+    .bg-c-pink {
+        background: linear-gradient(45deg, #FF5370, #ff869a);
+    }
+
+
+    .card {
+        border-radius: 5px;
+        -webkit-box-shadow: 0 1px 2.94px 0.06px rgba(4, 26, 55, 0.16);
+        box-shadow: 0 1px 2.94px 0.06px rgba(4, 26, 55, 0.16);
+        border: none;
+        margin-bottom: 30px;
+        margin-top: 39px;
+        -webkit-transition: all 0.3s ease-in-out;
+        transition: all 0.3s ease-in-out;
+    }
+
+    /* Efek hover */
+    .card:hover {
+        box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    }
+
+    .container {
+        padding: 2px 16px;
+        /* Menambahkan padding */
+    }
+
+    .card .card-block {
+        padding: 25px;
+    }
+
+    .order-card i {
+        font-size: 26px;
+    }
+
+    .f-left {
+        float: left;
+    }
+
+    .f-right {
+        float: right;
+    }
+</style>
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+<div class="container">
+    <div class="row">
+        <div class="col-md-4 col-xl-3">
+            <a href="@Url.Action("Index", "Product")" style="text-decoration: none; color: inherit;">
+                <div class="card bg-c-blue order-card">
+                    <div class="card-block">
+                        <h6 class="m-b-20">Jumlah Produk</h6>
+                        <h2 class="text-right"><i class="fa fa-cart-plus f-left"></i><span>@Model.TotalProducts</span>
+                        </h2>
+                        <p class="m-b-0">Total Products<span class="f-right">@Model.TotalProducts</span></p>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col-md-4 col-xl-3">
+            <a href="@Url.Action("Index", "Category")" style="text-decoration: none; color: inherit;">
+                <div class="card bg-c-green order-card">
+                    <div class="card-block">
+                        <h6 class="m-b-20">Jumlah Kategori</h6>
+                        <h2 class="text-right f-left"><i
+                                class="fa fa-list f-left"></i><span>@Model.TotalCategories</span>
+                        </h2>
+                        <p class="m-b-0">Total Categories<span class="f-right">@Model.TotalCategories</span></p>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col-md-4 col-xl-3">
+            <a href="@Url.Action("Index", "Product")" style="text-decoration: none; color: inherit;">
+                <div class="card bg-c-yellow order-card">
+                    <div class="card-block">
+                        <h6 class="m-b-20">Jumlah Stok</h6>
+                        <h2 class="text-rightf-left"><i class="fa fa-archive f-left"></i><span>@Model.TotalStock</span>
+                        </h2>
+                        <p class="m-b-0">Total Stock<span class="f-right">@Model.TotalStock</span></p>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col-md-4 col-xl-3">
+            <a href="@Url.Action("Seller", "Home")" style="text-decoration: none; color: inherit;">
+                <div class="card bg-c-pink order-card">
+                    <div class="card-block">
+                        <h6 class="m-b-20">Jumlah Seller</h6>
+                        <h2 class="text-right f-left"><i class="fa fa-users f-left"></i><span>@Model.TotalSellers</span>
+                        </h2>
+                        <p class="m-b-0">Total Sellers<span class="f-right">@Model.TotalSellers</span></p>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="container" style="max-width: 1260px; margin: auto;">
+    <div class="row">
+        <div class="col-md-7">
+            <div style="height: 400px; padding: 5px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); border-radius: 5px;">
+                <canvas id="myChart" style="height: 100%;"></canvas>
+            </div>
+        </div>
+        <div class="col-md-5">
+            <div class="mapouter"
+                style="height: 100%; width: 100%; padding: 10px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); border-radius: 5px;">
+                <div class="gmap_canvas"
+                    style="height: 100%; width: 100%; overflow: hidden; background: none !important;">
+                    <iframe width="100%" height="100%" id="gmap_canvas"
+                        src="https://maps.google.com/maps?q=Antoni%2BJl.%2BRaya%2BLintas%2BUtama%2BSumatera%2BNo.16%252C%2BSitoluama&t=&z=20&ie=UTF8&iwloc=&output=embed"
+                        frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+    var ctx = document.getElementById('myChart').getContext('2d');
+    var myChart = new Chart(ctx, {
+        type: 'bar',
+        data: {
+            labels: ['Jumlah Produk', 'Jumlah Kategori', 'Jumlah Stok', 'Jumlah Seller'],
+            datasets: [{
+                label: '# of Votes',
+                data: [@Model.TotalProducts, @Model.TotalCategories, @Model.TotalStock, @Model.TotalSellers],
+                backgroundColor: [
+                    'rgba(64, 153, 255, 0.5)', // biru
+                    'rgba(46, 216, 182, 0.5)', // hijau
+                    'rgba(255, 182, 77, 0.5)', // kuning
+                    'rgba(255, 83, 112, 0.5)'  // merah muda
+                ],
+                borderColor: [
+                    'rgba(64, 153, 255, 1)',
+                    'rgba(46, 216, 182, 1)',
+                    'rgba(255, 182, 77, 1)',
+                    'rgba(255, 83, 112, 1)'
+                ],
+                borderWidth: 2
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            scales: {
+                y: {
+                    beginAtZero: true
+                }
+            }
+        }
+    });
+</script>

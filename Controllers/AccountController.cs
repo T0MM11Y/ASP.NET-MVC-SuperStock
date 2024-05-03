@@ -19,7 +19,6 @@ public class AccountController : Controller
     {
         return View();
     }
-
     [HttpPost]
     public async Task<IActionResult> Login(string username, string password)
     {
@@ -31,16 +30,26 @@ public class AccountController : Controller
 
         var user = await _context.Users
             .FirstOrDefaultAsync(u => u.Username == username && u.Password == password);
+
+        Seller seller = null;
         if (user == null)
         {
-            ViewData["Error"] = "Invalid username or password.";
-            return View();
+            seller = await _context.Sellers
+                .FirstOrDefaultAsync(s => s.Username == username && s.Password == password);
+
+            if (seller == null)
+            {
+                ViewData["Error"] = "Invalid username or password.";
+                return View();
+            }
         }
+
         var claims = new List<Claim>
-        {
-            new Claim(ClaimTypes.Name, user.Username),
-            new Claim(ClaimTypes.Role, user.Role)
-        };
+    {
+        new Claim(ClaimTypes.Name, user != null ? user.Username : seller.Username),
+        new Claim(ClaimTypes.Role, user != null ? user.Role : "seller"),
+        new Claim("SellerId", seller != null ? seller.Id.ToString() : "")
+    };
 
         var claimsIdentity = new ClaimsIdentity(
             claims, CookieAuthenticationDefaults.AuthenticationScheme);
@@ -52,6 +61,27 @@ public class AccountController : Controller
             new ClaimsPrincipal(claimsIdentity),
             authProperties);
 
-        return Redirect(user.Role == "admin" ? "/Admin/Index" : "/Seller/Index");
+        return Redirect(user != null && user.Role == "admin" ? "/Admin/Index" : "/Product/Index");
+    }
+    [HttpPost]
+    public async Task<IActionResult> ChangePassword(string oldPassword, string newPassword, string confirmPassword)
+    {
+        if (newPassword != confirmPassword)
+        {
+            return Json(new { success = false, message = "New password and confirm password must be the same." });
+        }
+    
+        var seller = await _context.Sellers.FirstOrDefaultAsync(s => s.Username == User.Identity.Name);
+    
+        if (seller == null || seller.Password != oldPassword)
+        {
+            return Json(new { success = false, message = "Old password is incorrect." });
+        }
+    
+        seller.Password = newPassword;
+        _context.Sellers.Update(seller);
+        await _context.SaveChangesAsync();
+    
+        return Json(new { success = true, message = "Password has been changed successfully." });
     }
 }

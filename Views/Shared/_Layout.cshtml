@@ -13,8 +13,8 @@
 
 <body>
     <header>
-        <nav
-            class="navbar navbar-expand-xl navbar-toggleable-xl navbar-light bg-white border-bottom box-shadow mb-3 navbar-large">
+        <nav class="navbar navbar-expand-xl navbar-toggleable-xl navbar-light bg-white border-bottom box-shadow mb-3 navbar-large"
+            style="box-shadow: 0 2px 10px rgba(0,0,0,0.2);">
             <div class="container-fluid">
                 <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">
                     <img src="~/image/logo.png" alt="Logo" class="logo" width="46px">
@@ -26,38 +26,80 @@
                 </button>
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Seller">
-                                Seller</a>
-                        </li>
-                        <li class="nav-item" style="margin-right: 9px;">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Category" asp-action="Index">Add
-                                Category</a>
-                        </li>
-                        <form asp-controller="Admin" asp-action="Logout" method="post">
-                            <a id="logoutLink" class="nav-link text-dark" style="cursor: pointer;">
-                                <i class="fas fa-sign-out-alt text-danger"></i> Logout
-                            </a>
-                        </form>
-                    </ul>
-                    <div class="navbar-text d-flex align-items-center "> <!-- Add flexbox to align items -->
-                        <div class="avatar">
-                            @if (User.IsInRole("admin"))
-                            {
-                                <img class="admin-avatar" src="~/image/RobotProfilz.jpg" alt="Admin Avatar" />
-                            }
-                            else
-                            {
-                                @User.Identity.Name.Substring(0, 2).ToUpper()
-                            }
+
+                        @if (User.IsInRole("admin"))
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Admin" asp-action="Index">Home</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Seller">
+                                    Seller</a>
+                            </li>
+                            <li class="nav-item" style="margin-right: 9px;">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Category" asp-action="Index">
+                                    Category</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Product" asp-action="Index">
+                                    Product</a>
+                            </li>
+
+
+                        }
+                        <div id="liveDateTime"
+                            style="font-weight: bold; color: #29d4e0; font-family: 'Courier New', Courier, monospace; font-size: 18px; margin-top: 3px; margin-left: 20px;">
                         </div>
-                        @User.Identity.Name
+
+
+                    </ul>
+                    <div class="navbar-text d-flex align-items-center">
+                        <div class="dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" role="button" id="profileDropdown"
+                                data-bs-toggle="dropdown" aria-expanded="false">
+                                <div class="avatar">
+                                    @if (User.IsInRole("admin"))
+                                    {
+                                        <img class="admin-avatar" src="~/image/RobotProfilz.jpg" alt="Admin Avatar" />
+                                    }
+                                    else
+                                    {
+                                        @User.Identity.Name.Substring(0, 2).ToUpper()
+                                    }
+                                </div>
+                                @User.Identity.Name
+                            </a>
+                            <ul class="dropdown-menu" aria-labelledby="profileDropdown">
+                                @if (User.IsInRole("admin"))
+                                {
+                                    <li>
+                                        <form asp-controller="Admin" asp-action="Logout" method="post">
+                                            <button type="submit" class="dropdown-item" id="logoutLink">
+                                                <i class="fas fa-sign-out-alt text-danger"></i> Logout
+                                            </button>
+                                        </form>
+                                    </li>
+                                }
+                                @if (User.IsInRole("seller"))
+                                {
+                                    <li>
+                                        <a class="dropdown-item" data-toggle="modal" data-target="#changePasswordModal">
+                                            <i class="fas fa-key text-primary"></i> Change Password
+                                        </a>
+                                    </li>
+
+                                    <li>
+                                        <form asp-controller="Seller" asp-action="Logout" method="post">
+                                            <button type="submit" class="dropdown-item" id="sellerLogoutLink">
+                                                <i class="fas fa-sign-out-alt text-danger"></i> Logout
+                                            </button>
+                                        </form>
+                                    </li>
+                                }
+                            </ul>
+                        </div>
                     </div>
                 </div>
-            </div>
         </nav>
     </header>
     <div class="container">
@@ -66,11 +108,109 @@
         </main>
     </div>
 
+    <div class="modal fade" id="changePasswordModal" tabindex="-1" role="dialog"
+        aria-labelledby="changePasswordModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="changePasswordModalLabel">Change Password</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <form>
+                        <div class="form-group">
+                            <label for="oldPassword">Old Password</label>
+                            <input type="password" class="form-control" id="oldPassword" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="newPassword">New Password</label>
+                            <input type="password" class="form-control" id="newPassword" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="confirmPassword">Confirm Password</label>
+                            <input type="password" class="form-control" id="confirmPassword" required>
+                        </div>
+                    </form>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    <button type="button" class="btn btn-primary">Save changes</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <footer class="border-top footer text-muted">
         <div class="container">
-            &copy; 2024 - ManageMart - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            &copy; 2024 - SuperStock - <a href="https://github.com/T0MM11Y"><img src="~/image/github.png" width="25" height="25" style="margin-right: 4px;"></a>My Github
         </div>
     </footer>
+
+
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+    <script>
+        var days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+
+        function updateDateTime() {
+            var now = new Date();
+            var day = days[now.getDay()];
+            var hours = now.getHours();
+            var minutes = now.getMinutes();
+            var seconds = now.getSeconds();
+            var amPm = hours >= 12 ? 'PM' : 'AM';
+            hours = hours % 12;
+            hours = hours ? hours : 12; // the hour '0' should be '12'
+            minutes = minutes < 10 ? '0' + minutes : minutes;
+            seconds = seconds < 10 ? '0' + seconds : seconds;
+            var strTime = day + ', ' + hours + ':' + minutes + ':' + seconds + ' ' + amPm;
+            document.getElementById('liveDateTime').textContent = strTime;
+        }
+
+        setInterval(updateDateTime, 1000); // update time every 1 second
+        updateDateTime(); // initial time update
+    </script>
+    <script>
+        $('#changePasswordModal .btn-primary').click(function () {
+            $.ajax({
+                url: '/Account/ChangePassword',
+                method: 'POST',
+                data: {
+                    oldPassword: $('#oldPassword').val(),
+                    newPassword: $('#newPassword').val(),
+                    confirmPassword: $('#confirmPassword').val()
+                },
+                success: function (response) {
+                    if (response.success) {
+                        $('#changePasswordModal').modal('hide');
+                        Swal.fire({
+                            icon: 'success',
+                            title: 'Success',
+                            text: response.message
+                        }).then((result) => {
+                            if (result.isConfirmed) {
+                                location.reload();
+                            }
+                        });
+                    } else {
+                        Swal.fire({
+                            icon: 'error',
+                            title: 'Oops...',
+                            text: response.message
+                        });
+                    }
+                }
+            });
+        });
+    </script>
+
     <script>
         document.getElementById('logoutLink').addEventListener('click', function (event) {
             event.preventDefault();
@@ -91,12 +231,29 @@
                     }
                 });
         });
+
     </script>
-    <script src="~/lib/jquery/dist/jquery.min.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
-    <script src="~/js/site.js" asp-append-version="true"></script>
-    @await RenderSectionAsync("Scripts", required: false)
+    <script>
+        document.getElementById('sellerLogoutLink').addEventListener('click', function (event) {
+            event.preventDefault();
+            swal({
+                title: "Are you sure?",
+                text: "Once logged out, you will need to log in again to access your account.",
+                icon: "warning",
+                buttons: true,
+                dangerMode: true,
+            })
+                .then((willLogout) => {
+                    if (willLogout) {
+                        var form = document.createElement('form');
+                        document.body.appendChild(form);
+                        form.method = 'post';
+                        form.action = '/Seller/Logout';
+                        form.submit();
+                    }
+                });
+        });
+    </script>
 </body>
 
 </html>

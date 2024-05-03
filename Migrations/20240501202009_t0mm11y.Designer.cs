@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ManageMart.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20240425091639_InitialCreatez")]
-    partial class InitialCreatez
+    [Migration("20240501202009_t0mm11y")]
+    partial class t0mm11y
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -58,10 +58,6 @@ namespace ManageMart.Migrations
 
                     b.Property<DateTime>("CreatedAt")
                         .HasColumnType("datetime(6)");
-
-                    b.Property<string>("Description")
-                        .IsRequired()
-                        .HasColumnType("longtext");
 
                     b.Property<DateTime>("ExpiredAt")
                         .HasColumnType("datetime(6)");
@@ -133,6 +129,10 @@ namespace ManageMart.Migrations
                         .IsRequired()
                         .HasColumnType("longtext");
 
+                    b.Property<string>("UserId")
+                        .IsRequired()
+                        .HasColumnType("longtext");
+
                     b.Property<string>("Username")
                         .IsRequired()
                         .HasColumnType("longtext");
@@ -165,6 +165,15 @@ namespace ManageMart.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Users");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            Password = "admin",
+                            Role = "admin",
+                            Username = "admin"
+                        });
                 });
 
             modelBuilder.Entity("ManageMart.Product", b =>

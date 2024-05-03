@@ -2,6 +2,7 @@
     ViewData["Title"] = "Index";
 }
 <style>
+    
     .h1class {
         color: #6c757d;
         font-size: 1.9em;
@@ -16,7 +17,7 @@
 
     .btn-margin {
         margin-right: 40px;
-        background-color: #41d0e3;
+        background-color: #a062d3;
         width: 240px;
 
     }
@@ -24,7 +25,7 @@
 
     .btn-margin:hover,
     .btn-margin:active {
-        background-color: #F1DD6B;
+        background-color: #6bf1be;
     }
 
     .search-input {
@@ -39,6 +40,30 @@
     .search-input:focus {
         outline: none;
         box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+    }
+
+    .btn-info {
+        background-color: #17a2b8;
+        border-color: #17a2b8;
+        color: #fff;
+        transition: all 0.3s ease-in-out;
+    }
+
+    .btn-info:hover {
+        background-color: #138496;
+        border-color: #118294;
+    }
+
+    .btn-danger {
+        background-color: #dc3545;
+        border-color: #dc3545;
+        color: #fff;
+        transition: all 0.3s ease-in-out;
+    }
+
+    .btn-danger:hover {
+        background-color: #c82333;
+        border-color: #bd2130;
     }
 </style>
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css">
@@ -59,68 +84,203 @@
     </div>
 </div>
 
-
 @model IEnumerable<ManageMart.Category>
-
 <div class="row">
-    @foreach (var category in Model)
+    @foreach (var category in Model.Take(6))
     {
-        <div class="col-sm-4 mt-4">
+        <div class="col-sm-4 mt-5">
             <div class="card">
                 <div class="card-body">
                     <h5 class="card-title">@category.Name</h5>
                     <p class="card-text">@category.Description</p>
-                    <a href="#" class="btn btn-primary">Detail</a>
-                    <a href="#" class="btn btn-danger">Hapus</a>
+                    <div class="d-flex">
+                        <a href="#" class="btn btn-info detail-btn mr-2" data-id="@category.Id"
+                            style="margin-right: 8px;"><i class="fas fa-info-circle"></i>
+                            Detail</a>
+                        <form method="post" asp-controller="Category" asp-action="Delete">
+                            <input type="hidden" name="id" value="@category.Id">
+                            <button type="submit" class="btn btn-danger delete-btn"><i class="fas fa-trash-alt"></i>
+                                Hapus</button>
+                        </form>
+                    </div>
                 </div>
             </div>
         </div>
     }
-</div>
 
-
-
-<div class="modal fade" id="addCategoryModal" tabindex="-1" role="dialog" aria-labelledby="addCategoryModalLabel"
-    aria-hidden="true">
-    <div class="modal-dialog" role="document">
-        <div class="modal-content">
-            <div class="modal-header bg-info text-white">
-                <h5 class="modal-title" id="addCategoryModalLabel">Add Category</h5>
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <span aria-hidden="true">&times;</span>
-                </button>
+    <div class="modal fade" id="detailCategoryModal" tabindex="-1" role="dialog"
+        aria-labelledby="detailCategoryModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header bg-primary text-white">
+                    <h5 class="modal-title" id="detailCategoryModalLabel">Category Details</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div class="form-group">
+                        <label for="detailCategoryName">Name</label>
+                        <input type="text" class="form-control" id="detailCategoryName">
+                    </div>
+                    <div class="form-group">
+                        <label for="detailCategoryDescription">Description</label>
+                        <textarea class="form-control" id="detailCategoryDescription" rows="3"></textarea>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary close" data-dismiss="modal">Close</button>
+                    <button type="button" class="btn btn-info" id="saveChangesBtn">Save changes</button>
+                </div>
             </div>
-            <div class="modal-body">
-                <form method="post" asp-controller="Category" asp-action="Create" enctype="multipart/form-data">
-                    <div class="form-row">
-                        <div class="form-group ">
-                            <label for="categoryName">Name</label>
-                            <input type="text" class="form-control" id="Name" placeholder="Masukkan Nama Category"
-                                required name="Name">
-                        </div>
-                        <div class="form-group">
-                            <label for="categoryDescription">Description</label>
-                            <textarea class="form-control" id="Description" rows="3"
-                                placeholder="Masukkan Deskripsi Category" required name="Description"></textarea>
-
-                        </div>
-
-                        <div class="modal-footer">
-                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                            <button type="submit" class="btn btn-info">Save changes</button>
-                        </div>
-                </form>
-
-            </div>
-
         </div>
     </div>
+
+    <div class="modal fade" id="addCategoryModal" tabindex="-1" role="dialog" aria-labelledby="addCategoryModalLabel"
+        aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header bg-primary text-white">
+                    <h5 class="modal-title" id="addCategoryModalLabel">Add Category</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <form method="post" asp-controller="Category" asp-action="Create" enctype="multipart/form-data">
+                        <div class="form-row">
+                            <div class="form-group ">
+                                <label for="categoryName">Name</label>
+                                <input type="text" class="form-control" id="Name" placeholder="Masukkan Nama Category"
+                                    required name="Name">
+                            </div>
+                            <div class="form-group">
+                                <label for="categoryDescription">Description</label>
+                                <textarea class="form-control" id="Description" rows="3"
+                                    placeholder="Masukkan Deskripsi Category" required name="Description"></textarea>
+
+                            </div>
+
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                <button type="submit" class="btn btn-info">Save changes</button>
+                            </div>
+                    </form>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <!-- jQuery -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    
+    <!-- Bootstrap JS -->
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous"></script>
+    
+    <!-- Bootstrap CSS -->
+    <script>
+        $(document).on('click', '.delete-btn', function (event) {
+            event.preventDefault();
+            var form = $(this).closest('form');
+            Swal.fire({
+                title: 'Are you sure?',
+                text: "You won't be able to revert this!",
+                icon: 'warning',
+                showCancelButton: true,
+                confirmButtonColor: '#3085d6',
+                cancelButtonColor: '#d33',
+                confirmButtonText: 'Yes, delete it!'
+            }).then((result) => {
+                if (result.isConfirmed) {
+                    form.submit();
+                }
+            });
+        });
+    </script>
+
+    <script>
+        $('#searchInput').on('input', function () {
+            var searchTerm = $(this).val();
+            $.ajax({
+                url: '/Category/Search',
+                type: 'GET',
+                data: { term: searchTerm },
+                success: function (data) {
+                    // Clear the current display of categories
+                    $('.col-sm-4.mt-5').remove();
+                    // Loop through each category in the returned data
+                    $.each(data, function (index, category) {
+                        // Create a new card for each category
+                        var card = `
+                                <div class="col-sm-4 mt-5">
+                                    <div class="card">
+                                        <div class="card-body">
+                                            <h5 class="card-title">${category.name}</h5>
+                                            <p class="card-text">${category.description}</p>
+                                            <a href="#" class="btn btn-info"><i class="fas fa-info-circle"></i> Detail</a>
+                                            <a href="#" class="btn btn-danger"><i class="fas fa-trash-alt"></i> Hapus</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            `;
+                        // Add the new card to the display
+                        $('.row').append(card);
+                    });
+                }
+            });
+        });
+
+    </script>
+    <script>
+        $(document).on('click', '.close', function () {
+            $('#detailCategoryModal').modal('hide');
+        });
+
+        $(document).on('click', '#saveChangesBtn', function () {
+            var id = $(this).data('id'); // Mengambil id dari tombol save
+            var name = $('#detailCategoryName').val();
+            var description = $('#detailCategoryDescription').val();
+            $.ajax({
+                url: '/Category/Edit',
+                type: 'POST',
+                data: { Id: id, Name: name, Description: description },
+                success: function () {
+                    var card = $(`.detail-btn[data-id=${id}]`).closest('.card');
+                    card.find('.card-title').text(name);
+                    card.find('.card-text').text(description);
+                    $('#detailCategoryModal').modal('hide');
+                    $('#detailCategoryName').val(''); // Clearing the form after successful save
+                    $('#detailCategoryDescription').val(''); // Clearing the form after successful save
+                }
+            });
+        });
+
+        $(document).on('click', '.detail-btn', function () {
+            var id = $(this).data('id');
+            $('#saveChangesBtn').data('id', id); // Menyimpan id kategori ke tombol save
+            $.ajax({
+                url: '/Category/Details',
+                type: 'GET',
+                data: { id: id },
+                success: function (data) {
+                    $('#detailCategoryName').val(data.name);
+                    $('#detailCategoryDescription').val(data.description);
+                    $('#detailCategoryModal').modal('show');
+                }
+            });
+        });
+
+    </script>
+
+    <script>
+        $(document).ready(function(){
+            $(".btn-margin").click(function(){
+                console.log("Button clicked");
+                $("#addCategoryModal").modal('show');
+            });
+        });
+    </script>
+
 </div>
-
-
-
-
-
-<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>

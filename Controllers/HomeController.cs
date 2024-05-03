@@ -16,11 +16,12 @@ namespace ManageMart.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
+
+
+        public async Task<IActionResult> Index()
         {
             return View();
         }
-
         public async Task<IActionResult> Seller()
         {
             var sellers = await _context.Sellers.ToListAsync();

@@ -19,15 +19,13 @@ builder.Services.AddDbContext<AppDbContext>(options =>
                 maxRetryCount: 5,
                 maxRetryDelay: TimeSpan.FromSeconds(30),
                 errorNumbersToAdd: null)));
-
-// Add Identity
-builder.Services.AddDefaultIdentity<IdentityUser>()
+builder.Services.AddDefaultIdentity<IdentityUser>() 
     .AddEntityFrameworkStores<AppDbContext>();
 
 // Add Authentication services
 builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
     .AddCookie(options =>
-    {
+    {   
         options.LoginPath = "/Account/Login";
     });
 
@@ -37,22 +35,16 @@ var app = builder.Build();
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
-    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
-
 app.UseRouting();
-
-app.UseAuthentication(); // Add this
+app.UseAuthentication();
 app.UseAuthorization();
-
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Category}/{action=Index}/{id?}");
-
-// pattern: "{controller=Account}/{action=Login}/{id?}");
-
+    // pattern: "{controller=Product}/{action=Index}/{id?}");         
+    pattern: "{controller=Account}/{action=Login}/{id?}");
 app.Run();

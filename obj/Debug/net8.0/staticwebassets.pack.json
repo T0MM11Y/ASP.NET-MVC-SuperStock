@@ -17,6 +17,14 @@
       "PackagePath": "staticwebassets\\image\\RobotProfilz.jpg"
     },
     {
+      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\image\\category.png",
+      "PackagePath": "staticwebassets\\image\\category.png"
+    },
+    {
+      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\image\\github.png",
+      "PackagePath": "staticwebassets\\image\\github.png"
+    },
+    {
       "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\image\\login.gif",
       "PackagePath": "staticwebassets\\image\\login.gif"
     },
@@ -261,12 +269,116 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\products\\000000440803_01_800.jpg",
+      "PackagePath": "staticwebassets\\products\\000000440803_01_800.jpg"
+    },
+    {
+      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\products\\17f3ba6d-9ac2-4866-ae35-fdde5eea2f09.jpg",
+      "PackagePath": "staticwebassets\\products\\17f3ba6d-9ac2-4866-ae35-fdde5eea2f09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\products\\Screenshot_2021-07-10-Sosro-Fruit-Tea-Apel-Btl-500Ml-KlikIndomaret.png",
+      "PackagePath": "staticwebassets\\products\\Screenshot_2021-07-10-Sosro-Fruit-Tea-Apel-Btl-500Ml-KlikIndomaret.png"
+    },
+    {
+      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\products\\account.png",
+      "PackagePath": "staticwebassets\\products\\account.png"
+    },
+    {
+      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\products\\b0b302b55a0a58221bcac8106dc8e8db.jpeg",
+      "PackagePath": "staticwebassets\\products\\b0b302b55a0a58221bcac8106dc8e8db.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\products\\beng-beng_beng-beng_regular_-25_gr_x_17_pcs-_full05_n11d6dh8.webp",
+      "PackagePath": "staticwebassets\\products\\beng-beng_beng-beng_regular_-25_gr_x_17_pcs-_full05_n11d6dh8.webp"
+    },
+    {
+      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\products\\blender.jpg",
+      "PackagePath": "staticwebassets\\products\\blender.jpg"
+    },
+    {
+      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\products\\bn8e34.webp",
+      "PackagePath": "staticwebassets\\products\\bn8e34.webp"
+    },
+    {
+      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\products\\brd-44261_dua-kelinci-tic-tac-snack-pilus-tictac-sapi-panggang-mix100-g_full01-00600d06.webp",
+      "PackagePath": "staticwebassets\\products\\brd-44261_dua-kelinci-tic-tac-snack-pilus-tictac-sapi-panggang-mix100-g_full01-00600d06.webp"
+    },
+    {
+      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\products\\chocolatos.jpg",
+      "PackagePath": "staticwebassets\\products\\chocolatos.jpg"
+    },
+    {
+      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\products\\download.jfif",
+      "PackagePath": "staticwebassets\\products\\download.jfif"
+    },
+    {
+      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\products\\f6d4b6edda4183c2a32b762233d596ed.jpg",
+      "PackagePath": "staticwebassets\\products\\f6d4b6edda4183c2a32b762233d596ed.jpg"
+    },
+    {
+      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\products\\leci.png",
+      "PackagePath": "staticwebassets\\products\\leci.png"
+    },
+    {
+      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\products\\sarigandum.webp",
+      "PackagePath": "staticwebassets\\products\\sarigandum.webp"
+    },
+    {
+      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\products\\selada.jpg",
+      "PackagePath": "staticwebassets\\products\\selada.jpg"
+    },
+    {
+      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\products\\selada.png",
+      "PackagePath": "staticwebassets\\products\\selada.png"
+    },
+    {
+      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\products\\susukentalmanis.jpg",
+      "PackagePath": "staticwebassets\\products\\susukentalmanis.jpg"
+    },
+    {
+      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\products\\write_10767569.png",
+      "PackagePath": "staticwebassets\\products\\write_10767569.png"
+    },
+    {
+      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\products\\★.jfif",
+      "PackagePath": "staticwebassets\\products\\★.jfif"
+    },
+    {
+      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\1689000551915.jpg",
+      "PackagePath": "staticwebassets\\upload\\1689000551915.jpg"
+    },
+    {
+      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\1689000575480.jpg",
+      "PackagePath": "staticwebassets\\upload\\1689000575480.jpg"
+    },
+    {
+      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\1689476602719.jpg",
+      "PackagePath": "staticwebassets\\upload\\1689476602719.jpg"
+    },
+    {
+      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\1689476617556.jpg",
+      "PackagePath": "staticwebassets\\upload\\1689476617556.jpg"
+    },
+    {
+      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\1_nvmfpwiv_mSEy2cD0xYZBQ.png",
+      "PackagePath": "staticwebassets\\upload\\1_nvmfpwiv_mSEy2cD0xYZBQ.png"
+    },
+    {
       "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\22-16-31-1316292.jpeg",
       "PackagePath": "staticwebassets\\upload\\22-16-31-1316292.jpeg"
     },
     {
+      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\37. Carlo Sembiring .jpg",
+      "PackagePath": "staticwebassets\\upload\\37. Carlo Sembiring .jpg"
+    },
+    {
       "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\IMG-20240218-WA0020.jpg",
       "PackagePath": "staticwebassets\\upload\\IMG-20240218-WA0020.jpg"
+    },
+    {
+      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\IMG_20230926_163659.jpg",
+      "PackagePath": "staticwebassets\\upload\\IMG_20230926_163659.jpg"
     },
     {
       "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\Peringatan Terkait Phishing.jpg",
@@ -275,6 +387,26 @@
     {
       "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\Picsart_24-03-30_09-42-13-960.jpg",
       "PackagePath": "staticwebassets\\upload\\Picsart_24-03-30_09-42-13-960.jpg"
+    },
+    {
+      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\category.png",
+      "PackagePath": "staticwebassets\\upload\\category.png"
+    },
+    {
+      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\desktop-wallpaper-dark-badass-anime-red-and-black-anime-aesthetic-thumbnail.jpg",
+      "PackagePath": "staticwebassets\\upload\\desktop-wallpaper-dark-badass-anime-red-and-black-anime-aesthetic-thumbnail.jpg"
+    },
+    {
+      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\despicable-me-4-3440x1440-14743.jpg",
+      "PackagePath": "staticwebassets\\upload\\despicable-me-4-3440x1440-14743.jpg"
+    },
+    {
+      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\download.jfif",
+      "PackagePath": "staticwebassets\\upload\\download.jfif"
+    },
+    {
+      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\frog-pixel.gif",
+      "PackagePath": "staticwebassets\\upload\\frog-pixel.gif"
     },
     {
       "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\teacher1.jpg",
