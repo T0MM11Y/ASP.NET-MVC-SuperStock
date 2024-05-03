@@ -14,6 +14,15 @@ Deleting products from the inventory.
 Admins also cannot edit products."
 
 See in here : 
+
 ![alt text](https://github.com/T0MM11Y/ASP.NET-MVC-SuperStock/blob/main/gambar/login.png?raw=true)
+
+---
+
 ![alt text](https://github.com/T0MM11Y/ASP.NET-MVC-SuperStock/blob/main/gambar/dashboard.png?raw=true)
+
+---
+
 ![alt text](https://github.com/T0MM11Y/ASP.NET-MVC-SuperStock/blob/main/gambar/product.png?raw=true)
+
+
