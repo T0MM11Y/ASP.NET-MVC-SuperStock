@@ -18,50 +18,50 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = T:\ASPNETCORE\ManageMart
 build_property._RazorSourceGeneratorDebug = 
 
-[T:/ASPNETCORE/ManageMart/Views/Account/Login.cshtml]
+[t:/ASPNETCORE/ManageMart/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[T:/ASPNETCORE/ManageMart/Views/Admin/Index.cshtml]
+[t:/ASPNETCORE/ManageMart/Views/Admin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[T:/ASPNETCORE/ManageMart/Views/Category/Index.cshtml]
+[t:/ASPNETCORE/ManageMart/Views/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[T:/ASPNETCORE/ManageMart/Views/Home/Seller.cshtml]
+[t:/ASPNETCORE/ManageMart/Views/Home/Seller.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZWxsZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[T:/ASPNETCORE/ManageMart/Views/Product/Index.cshtml]
+[t:/ASPNETCORE/ManageMart/Views/Product/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[T:/ASPNETCORE/ManageMart/Views/Seller/Index.cshtml]
+[t:/ASPNETCORE/ManageMart/Views/Seller/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VsbGVyXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[T:/ASPNETCORE/ManageMart/Views/Shared/Error.cshtml]
+[t:/ASPNETCORE/ManageMart/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[T:/ASPNETCORE/ManageMart/Views/Shared/_LoginLayout.cshtml]
+[t:/ASPNETCORE/ManageMart/Views/Shared/_LoginLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpbkxheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[T:/ASPNETCORE/ManageMart/Views/Shared/_ValidationScriptsPartial.cshtml]
+[t:/ASPNETCORE/ManageMart/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[T:/ASPNETCORE/ManageMart/Views/_ViewImports.cshtml]
+[t:/ASPNETCORE/ManageMart/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[T:/ASPNETCORE/ManageMart/Views/_ViewStart.cshtml]
+[t:/ASPNETCORE/ManageMart/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[T:/ASPNETCORE/ManageMart/Views/Shared/_Layout.cshtml]
+[t:/ASPNETCORE/ManageMart/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-wecd0qw47g
