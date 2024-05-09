@@ -1,438 +1,6 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ManageMart.bundle.scp.css",
-      "PackagePath": "staticwebassets\\ManageMart.bundle.scp.css"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\css\\site.css",
-      "PackagePath": "staticwebassets\\css\\site.css"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\favicon.ico",
-      "PackagePath": "staticwebassets\\favicon.ico"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\image\\RobotProfilz.jpg",
-      "PackagePath": "staticwebassets\\image\\RobotProfilz.jpg"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\image\\category.png",
-      "PackagePath": "staticwebassets\\image\\category.png"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\image\\github.png",
-      "PackagePath": "staticwebassets\\image\\github.png"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\image\\login.gif",
-      "PackagePath": "staticwebassets\\image\\login.gif"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\image\\logo.png",
-      "PackagePath": "staticwebassets\\image\\logo.png"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\image\\no-image-available.png",
-      "PackagePath": "staticwebassets\\image\\no-image-available.png"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\js\\site.js",
-      "PackagePath": "staticwebassets\\js\\site.js"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\LICENSE",
-      "PackagePath": "staticwebassets\\lib\\bootstrap"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\products\\000000440803_01_800.jpg",
-      "PackagePath": "staticwebassets\\products\\000000440803_01_800.jpg"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\products\\17f3ba6d-9ac2-4866-ae35-fdde5eea2f09.jpg",
-      "PackagePath": "staticwebassets\\products\\17f3ba6d-9ac2-4866-ae35-fdde5eea2f09.jpg"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\products\\Screenshot_2021-07-10-Sosro-Fruit-Tea-Apel-Btl-500Ml-KlikIndomaret.png",
-      "PackagePath": "staticwebassets\\products\\Screenshot_2021-07-10-Sosro-Fruit-Tea-Apel-Btl-500Ml-KlikIndomaret.png"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\products\\account.png",
-      "PackagePath": "staticwebassets\\products\\account.png"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\products\\b0b302b55a0a58221bcac8106dc8e8db.jpeg",
-      "PackagePath": "staticwebassets\\products\\b0b302b55a0a58221bcac8106dc8e8db.jpeg"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\products\\beng-beng_beng-beng_regular_-25_gr_x_17_pcs-_full05_n11d6dh8.webp",
-      "PackagePath": "staticwebassets\\products\\beng-beng_beng-beng_regular_-25_gr_x_17_pcs-_full05_n11d6dh8.webp"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\products\\blender.jpg",
-      "PackagePath": "staticwebassets\\products\\blender.jpg"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\products\\bn8e34.webp",
-      "PackagePath": "staticwebassets\\products\\bn8e34.webp"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\products\\brd-44261_dua-kelinci-tic-tac-snack-pilus-tictac-sapi-panggang-mix100-g_full01-00600d06.webp",
-      "PackagePath": "staticwebassets\\products\\brd-44261_dua-kelinci-tic-tac-snack-pilus-tictac-sapi-panggang-mix100-g_full01-00600d06.webp"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\products\\chocolatos.jpg",
-      "PackagePath": "staticwebassets\\products\\chocolatos.jpg"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\products\\download.jfif",
-      "PackagePath": "staticwebassets\\products\\download.jfif"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\products\\f6d4b6edda4183c2a32b762233d596ed.jpg",
-      "PackagePath": "staticwebassets\\products\\f6d4b6edda4183c2a32b762233d596ed.jpg"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\products\\leci.png",
-      "PackagePath": "staticwebassets\\products\\leci.png"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\products\\sarigandum.webp",
-      "PackagePath": "staticwebassets\\products\\sarigandum.webp"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\products\\selada.jpg",
-      "PackagePath": "staticwebassets\\products\\selada.jpg"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\products\\selada.png",
-      "PackagePath": "staticwebassets\\products\\selada.png"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\products\\susukentalmanis.jpg",
-      "PackagePath": "staticwebassets\\products\\susukentalmanis.jpg"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\products\\write_10767569.png",
-      "PackagePath": "staticwebassets\\products\\write_10767569.png"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\products\\★.jfif",
-      "PackagePath": "staticwebassets\\products\\★.jfif"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\1689000551915.jpg",
-      "PackagePath": "staticwebassets\\upload\\1689000551915.jpg"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\1689000575480.jpg",
-      "PackagePath": "staticwebassets\\upload\\1689000575480.jpg"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\1689476602719.jpg",
-      "PackagePath": "staticwebassets\\upload\\1689476602719.jpg"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\1689476617556.jpg",
-      "PackagePath": "staticwebassets\\upload\\1689476617556.jpg"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\1_nvmfpwiv_mSEy2cD0xYZBQ.png",
-      "PackagePath": "staticwebassets\\upload\\1_nvmfpwiv_mSEy2cD0xYZBQ.png"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\22-16-31-1316292.jpeg",
-      "PackagePath": "staticwebassets\\upload\\22-16-31-1316292.jpeg"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\37. Carlo Sembiring .jpg",
-      "PackagePath": "staticwebassets\\upload\\37. Carlo Sembiring .jpg"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\IMG-20240218-WA0020.jpg",
-      "PackagePath": "staticwebassets\\upload\\IMG-20240218-WA0020.jpg"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\IMG_20230926_163659.jpg",
-      "PackagePath": "staticwebassets\\upload\\IMG_20230926_163659.jpg"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\Peringatan Terkait Phishing.jpg",
-      "PackagePath": "staticwebassets\\upload\\Peringatan Terkait Phishing.jpg"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\Picsart_24-03-30_09-42-13-960.jpg",
-      "PackagePath": "staticwebassets\\upload\\Picsart_24-03-30_09-42-13-960.jpg"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\category.png",
-      "PackagePath": "staticwebassets\\upload\\category.png"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\desktop-wallpaper-dark-badass-anime-red-and-black-anime-aesthetic-thumbnail.jpg",
-      "PackagePath": "staticwebassets\\upload\\desktop-wallpaper-dark-badass-anime-red-and-black-anime-aesthetic-thumbnail.jpg"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\despicable-me-4-3440x1440-14743.jpg",
-      "PackagePath": "staticwebassets\\upload\\despicable-me-4-3440x1440-14743.jpg"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\download.jfif",
-      "PackagePath": "staticwebassets\\upload\\download.jfif"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\frog-pixel.gif",
-      "PackagePath": "staticwebassets\\upload\\frog-pixel.gif"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\teacher1.jpg",
-      "PackagePath": "staticwebassets\\upload\\teacher1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\teacher2.jpg",
-      "PackagePath": "staticwebassets\\upload\\teacher2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\teacher3.jpg",
-      "PackagePath": "staticwebassets\\upload\\teacher3.jpg"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\teacher4.jpg",
-      "PackagePath": "staticwebassets\\upload\\teacher4.jpg"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\teacher5.jpg",
-      "PackagePath": "staticwebassets\\upload\\teacher5.jpg"
-    },
-    {
-      "Id": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\teacher6.jpg",
-      "PackagePath": "staticwebassets\\upload\\teacher6.jpg"
-    },
-    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ManageMart.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
@@ -447,6 +15,582 @@
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ManageMart.props",
       "PackagePath": "buildTransitive\\ManageMart.props"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ManageMart.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ManageMart.bundle.scp.css"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\image\\RobotProfilz.jpg",
+      "PackagePath": "staticwebassets\\image\\RobotProfilz.jpg"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\image\\category.png",
+      "PackagePath": "staticwebassets\\image\\category.png"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\image\\github.png",
+      "PackagePath": "staticwebassets\\image\\github.png"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\image\\login.gif",
+      "PackagePath": "staticwebassets\\image\\login.gif"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\image\\logo.png",
+      "PackagePath": "staticwebassets\\image\\logo.png"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\image\\no-image-available.png",
+      "PackagePath": "staticwebassets\\image\\no-image-available.png"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\000000440803_01_800.jpg",
+      "PackagePath": "staticwebassets\\products\\000000440803_01_800.jpg"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\17f3ba6d-9ac2-4866-ae35-fdde5eea2f09.jpg",
+      "PackagePath": "staticwebassets\\products\\17f3ba6d-9ac2-4866-ae35-fdde5eea2f09.jpg"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\Apel Fuji.jfif",
+      "PackagePath": "staticwebassets\\products\\Apel Fuji.jfif"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\Bayam Hijau.jfif",
+      "PackagePath": "staticwebassets\\products\\Bayam Hijau.jfif"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\Chiz Crackers Rasa Keju.jfif",
+      "PackagePath": "staticwebassets\\products\\Chiz Crackers Rasa Keju.jfif"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\CocaCola.jfif",
+      "PackagePath": "staticwebassets\\products\\CocaCola.jfif"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\Cokelat Batang Susu.jfif",
+      "PackagePath": "staticwebassets\\products\\Cokelat Batang Susu.jfif"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\Daging Ayam Broiler.jfif",
+      "PackagePath": "staticwebassets\\products\\Daging Ayam Broiler.jfif"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\Deterjen Bubuk.jfif",
+      "PackagePath": "staticwebassets\\products\\Deterjen Bubuk.jfif"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\Gula Pasir Putih.jfif",
+      "PackagePath": "staticwebassets\\products\\Gula Pasir Putih.jfif"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\Kue Bolu Susu.jfif",
+      "PackagePath": "staticwebassets\\products\\Kue Bolu Susu.jfif"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\Mie Instan Rasa Kari.jfif",
+      "PackagePath": "staticwebassets\\products\\Mie Instan Rasa Kari.jfif"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\Minyak Goreng Sawit.jfif",
+      "PackagePath": "staticwebassets\\products\\Minyak Goreng Sawit.jfif"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\Pembersih Lantai.jfif",
+      "PackagePath": "staticwebassets\\products\\Pembersih Lantai.jfif"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\Permen Jelly.jfif",
+      "PackagePath": "staticwebassets\\products\\Permen Jelly.jfif"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\Pisang Cavendish.jfif",
+      "PackagePath": "staticwebassets\\products\\Pisang Cavendish.jfif"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\Roti Tawar Gandum.jfif",
+      "PackagePath": "staticwebassets\\products\\Roti Tawar Gandum.jfif"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\Sabun Cuci Piring.jfif",
+      "PackagePath": "staticwebassets\\products\\Sabun Cuci Piring.jfif"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\Sabun Mandi Cair Antiseptik.jfif",
+      "PackagePath": "staticwebassets\\products\\Sabun Mandi Cair Antiseptik.jfif"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\Sampo Anti Ketombe.jfif",
+      "PackagePath": "staticwebassets\\products\\Sampo Anti Ketombe.jfif"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\Screenshot_2021-07-10-Sosro-Fruit-Tea-Apel-Btl-500Ml-KlikIndomaret.png",
+      "PackagePath": "staticwebassets\\products\\Screenshot_2021-07-10-Sosro-Fruit-Tea-Apel-Btl-500Ml-KlikIndomaret.png"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\Susu UHT Full Cream.jfif",
+      "PackagePath": "staticwebassets\\products\\Susu UHT Full Cream.jfif"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\Telur Ayam Kampung.jfif",
+      "PackagePath": "staticwebassets\\products\\Telur Ayam Kampung.jfif"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\Telur Ayam Ras.jfif",
+      "PackagePath": "staticwebassets\\products\\Telur Ayam Ras.jfif"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\Tepung Terigu Protein Tinggi.jfif",
+      "PackagePath": "staticwebassets\\products\\Tepung Terigu Protein Tinggi.jfif"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\Yoghurt Rasa Stroberi.jfif",
+      "PackagePath": "staticwebassets\\products\\Yoghurt Rasa Stroberi.jfif"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\account.png",
+      "PackagePath": "staticwebassets\\products\\account.png"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\b0b302b55a0a58221bcac8106dc8e8db.jpeg",
+      "PackagePath": "staticwebassets\\products\\b0b302b55a0a58221bcac8106dc8e8db.jpeg"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\beng-beng_beng-beng_regular_-25_gr_x_17_pcs-_full05_n11d6dh8.webp",
+      "PackagePath": "staticwebassets\\products\\beng-beng_beng-beng_regular_-25_gr_x_17_pcs-_full05_n11d6dh8.webp"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\beras.jfif",
+      "PackagePath": "staticwebassets\\products\\beras.jfif"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\blender.jpg",
+      "PackagePath": "staticwebassets\\products\\blender.jpg"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\bn8e34.webp",
+      "PackagePath": "staticwebassets\\products\\bn8e34.webp"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\brd-44261_dua-kelinci-tic-tac-snack-pilus-tictac-sapi-panggang-mix100-g_full01-00600d06.webp",
+      "PackagePath": "staticwebassets\\products\\brd-44261_dua-kelinci-tic-tac-snack-pilus-tictac-sapi-panggang-mix100-g_full01-00600d06.webp"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\chocolatos.jpg",
+      "PackagePath": "staticwebassets\\products\\chocolatos.jpg"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\download.jfif",
+      "PackagePath": "staticwebassets\\products\\download.jfif"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\f6d4b6edda4183c2a32b762233d596ed.jpg",
+      "PackagePath": "staticwebassets\\products\\f6d4b6edda4183c2a32b762233d596ed.jpg"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\leci.png",
+      "PackagePath": "staticwebassets\\products\\leci.png"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\sarigandum.webp",
+      "PackagePath": "staticwebassets\\products\\sarigandum.webp"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\selada.jpg",
+      "PackagePath": "staticwebassets\\products\\selada.jpg"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\selada.png",
+      "PackagePath": "staticwebassets\\products\\selada.png"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\susukentalmanis.jpg",
+      "PackagePath": "staticwebassets\\products\\susukentalmanis.jpg"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\write_10767569.png",
+      "PackagePath": "staticwebassets\\products\\write_10767569.png"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\★.jfif",
+      "PackagePath": "staticwebassets\\products\\★.jfif"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\1689000551915.jpg",
+      "PackagePath": "staticwebassets\\upload\\1689000551915.jpg"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\1689000575480.jpg",
+      "PackagePath": "staticwebassets\\upload\\1689000575480.jpg"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\1689476602719.jpg",
+      "PackagePath": "staticwebassets\\upload\\1689476602719.jpg"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\1689476617556.jpg",
+      "PackagePath": "staticwebassets\\upload\\1689476617556.jpg"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\1_nvmfpwiv_mSEy2cD0xYZBQ.png",
+      "PackagePath": "staticwebassets\\upload\\1_nvmfpwiv_mSEy2cD0xYZBQ.png"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\22-16-31-1316292.jpeg",
+      "PackagePath": "staticwebassets\\upload\\22-16-31-1316292.jpeg"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\37. Carlo Sembiring .jpg",
+      "PackagePath": "staticwebassets\\upload\\37. Carlo Sembiring .jpg"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\IMG-20240218-WA0020.jpg",
+      "PackagePath": "staticwebassets\\upload\\IMG-20240218-WA0020.jpg"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\IMG_20230926_163659.jpg",
+      "PackagePath": "staticwebassets\\upload\\IMG_20230926_163659.jpg"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\Peringatan Terkait Phishing.jpg",
+      "PackagePath": "staticwebassets\\upload\\Peringatan Terkait Phishing.jpg"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\Picsart_24-03-30_09-42-13-960.jpg",
+      "PackagePath": "staticwebassets\\upload\\Picsart_24-03-30_09-42-13-960.jpg"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\category.png",
+      "PackagePath": "staticwebassets\\upload\\category.png"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\desktop-wallpaper-dark-badass-anime-red-and-black-anime-aesthetic-thumbnail.jpg",
+      "PackagePath": "staticwebassets\\upload\\desktop-wallpaper-dark-badass-anime-red-and-black-anime-aesthetic-thumbnail.jpg"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\despicable-me-4-3440x1440-14743.jpg",
+      "PackagePath": "staticwebassets\\upload\\despicable-me-4-3440x1440-14743.jpg"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\download.jfif",
+      "PackagePath": "staticwebassets\\upload\\download.jfif"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\frog-pixel.gif",
+      "PackagePath": "staticwebassets\\upload\\frog-pixel.gif"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\teacher1.jpg",
+      "PackagePath": "staticwebassets\\upload\\teacher1.jpg"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\teacher2.jpg",
+      "PackagePath": "staticwebassets\\upload\\teacher2.jpg"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\teacher3.jpg",
+      "PackagePath": "staticwebassets\\upload\\teacher3.jpg"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\teacher4.jpg",
+      "PackagePath": "staticwebassets\\upload\\teacher4.jpg"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\teacher5.jpg",
+      "PackagePath": "staticwebassets\\upload\\teacher5.jpg"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\teacher6.jpg",
+      "PackagePath": "staticwebassets\\upload\\teacher6.jpg"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\teams_1.png",
+      "PackagePath": "staticwebassets\\upload\\teams_1.png"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\teams_4.png",
+      "PackagePath": "staticwebassets\\upload\\teams_4.png"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\upstream_16.png",
+      "PackagePath": "staticwebassets\\upload\\upstream_16.png"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\vibrent_19.png",
+      "PackagePath": "staticwebassets\\upload\\vibrent_19.png"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\vibrent_20.png",
+      "PackagePath": "staticwebassets\\upload\\vibrent_20.png"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\vibrent_21.png",
+      "PackagePath": "staticwebassets\\upload\\vibrent_21.png"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\vibrent_22.png",
+      "PackagePath": "staticwebassets\\upload\\vibrent_22.png"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\vibrent_23.png",
+      "PackagePath": "staticwebassets\\upload\\vibrent_23.png"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\vibrent_24.png",
+      "PackagePath": "staticwebassets\\upload\\vibrent_24.png"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\vibrent_25.png",
+      "PackagePath": "staticwebassets\\upload\\vibrent_25.png"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\vibrent_26.png",
+      "PackagePath": "staticwebassets\\upload\\vibrent_26.png"
+    },
+    {
+      "Id": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\vibrent_27.png",
+      "PackagePath": "staticwebassets\\upload\\vibrent_27.png"
     }
   ],
   "ElementsToRemove": []

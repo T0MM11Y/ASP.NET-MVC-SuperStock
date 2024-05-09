@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\ManageMart.csproj": {}
+    "T:\\ASPNETCORE\\ManageMart\\ManageMart.csproj": {}
   },
   "projects": {
-    "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\ManageMart.csproj": {
+    "T:\\ASPNETCORE\\ManageMart\\ManageMart.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\ManageMart.csproj",
+        "projectUniqueName": "T:\\ASPNETCORE\\ManageMart\\ManageMart.csproj",
         "projectName": "ManageMart",
-        "projectPath": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\ManageMart.csproj",
-        "packagesPath": "C:\\Users\\T0MM11Y\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\obj\\",
+        "projectPath": "T:\\ASPNETCORE\\ManageMart\\ManageMart.csproj",
+        "packagesPath": "C:\\Users\\Killua\\.nuget\\packages\\",
+        "outputPath": "T:\\ASPNETCORE\\ManageMart\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\T0MM11Y\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Killua\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

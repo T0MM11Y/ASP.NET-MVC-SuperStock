@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "uKt7xG55t4dKM4ilhRFXXv7+g/edLacJenhzVDGcvgQ=",
+  "Hash": "Pd8pSOWcshSwm/fZcS2JgnJPqA3ZPXbalqGM+5iEnic=",
   "Source": "ManageMart",
   "BasePath": "_content/ManageMart",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ManageMart\\wwwroot",
       "Source": "ManageMart",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\css\\site.css",
+      "Identity": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\css\\site.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\css\\site.css"
+      "OriginalItemSpec": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\favicon.ico",
+      "Identity": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\favicon.ico",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\favicon.ico"
+      "OriginalItemSpec": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\js\\site.js",
+      "Identity": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\js\\site.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -71,13 +71,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\js\\site.js"
+      "OriginalItemSpec": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -90,13 +90,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+      "OriginalItemSpec": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -109,13 +109,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+      "OriginalItemSpec": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -128,13 +128,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+      "OriginalItemSpec": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -147,13 +147,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -166,13 +166,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -185,13 +185,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -204,13 +204,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -223,13 +223,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -242,13 +242,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+      "OriginalItemSpec": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -261,13 +261,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+      "OriginalItemSpec": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -280,13 +280,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+      "OriginalItemSpec": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -299,13 +299,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -318,13 +318,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -337,13 +337,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -356,13 +356,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -375,13 +375,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -394,13 +394,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+      "OriginalItemSpec": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -413,13 +413,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+      "OriginalItemSpec": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -432,13 +432,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+      "OriginalItemSpec": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -451,13 +451,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -470,13 +470,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -489,13 +489,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -508,13 +508,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -527,13 +527,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -546,13 +546,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+      "OriginalItemSpec": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -565,13 +565,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+      "OriginalItemSpec": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -584,13 +584,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+      "OriginalItemSpec": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -603,13 +603,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -622,13 +622,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -641,13 +641,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -660,13 +660,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -679,13 +679,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -698,13 +698,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+      "OriginalItemSpec": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -717,13 +717,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+      "OriginalItemSpec": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -736,13 +736,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+      "OriginalItemSpec": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -755,13 +755,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+      "OriginalItemSpec": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -774,13 +774,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+      "OriginalItemSpec": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -793,13 +793,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+      "OriginalItemSpec": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -812,13 +812,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+      "OriginalItemSpec": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -831,13 +831,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+      "OriginalItemSpec": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -850,13 +850,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+      "OriginalItemSpec": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -869,13 +869,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+      "OriginalItemSpec": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -888,13 +888,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+      "OriginalItemSpec": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -907,13 +907,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+      "OriginalItemSpec": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -926,13 +926,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE"
+      "OriginalItemSpec": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -945,13 +945,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+      "OriginalItemSpec": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -964,13 +964,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+      "OriginalItemSpec": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -983,13 +983,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+      "OriginalItemSpec": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1002,13 +1002,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js"
+      "OriginalItemSpec": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1021,13 +1021,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+      "OriginalItemSpec": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1040,13 +1040,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js"
+      "OriginalItemSpec": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1059,13 +1059,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+      "OriginalItemSpec": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1078,13 +1078,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md"
+      "OriginalItemSpec": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1097,13 +1097,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js"
+      "OriginalItemSpec": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1116,13 +1116,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js"
+      "OriginalItemSpec": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1135,13 +1135,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map"
+      "OriginalItemSpec": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1154,13 +1154,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt"
+      "OriginalItemSpec": "C:\\Users\\Killua\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ManageMart.styles.css",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ManageMart.styles.css",
       "SourceId": "ManageMart",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "t:\\ASPNETCORE\\ManageMart\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "ManageMart.styles.css",
       "AssetKind": "All",
@@ -1173,13 +1173,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ManageMart.styles.css"
+      "OriginalItemSpec": "t:\\ASPNETCORE\\ManageMart\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ManageMart.styles.css"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ManageMart.bundle.scp.css",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ManageMart.bundle.scp.css",
       "SourceId": "ManageMart",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "t:\\ASPNETCORE\\ManageMart\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "ManageMart.bundle.scp.css",
       "AssetKind": "All",
@@ -1192,13 +1192,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ManageMart.bundle.scp.css"
+      "OriginalItemSpec": "t:\\ASPNETCORE\\ManageMart\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ManageMart.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\css\\site.css",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\css\\site.css",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\favicon.ico",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\favicon.ico",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\image\\category.png",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\image\\category.png",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "image/category.png",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\image\\category.png"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\image\\github.png",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\image\\github.png",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "image/github.png",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\image\\github.png"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\image\\login.gif",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\image\\login.gif",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "image/login.gif",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\image\\login.gif"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\image\\logo.png",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\image\\logo.png",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "image/logo.png",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\image\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\image\\no-image-available.png",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\image\\no-image-available.png",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "image/no-image-available.png",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\image\\no-image-available.png"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\image\\RobotProfilz.jpg",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\image\\RobotProfilz.jpg",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "image/RobotProfilz.jpg",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\image\\RobotProfilz.jpg"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\js\\site.js",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\js\\site.js",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1784,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1803,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1822,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1841,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1860,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1879,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1898,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1917,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1936,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1974,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1993,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2031,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2050,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2069,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2088,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2107,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2126,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2145,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2164,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2183,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2202,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2221,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2240,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2259,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2297,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2316,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2335,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2354,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2373,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2392,10 +2392,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2411,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2430,10 +2430,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2449,10 +2449,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\products\\★.jfif",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\★.jfif",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "products/★.jfif",
       "AssetKind": "All",
@@ -2468,10 +2468,10 @@
       "OriginalItemSpec": "wwwroot\\products\\★.jfif"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\products\\000000440803_01_800.jpg",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\000000440803_01_800.jpg",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "products/000000440803_01_800.jpg",
       "AssetKind": "All",
@@ -2487,10 +2487,10 @@
       "OriginalItemSpec": "wwwroot\\products\\000000440803_01_800.jpg"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\products\\17f3ba6d-9ac2-4866-ae35-fdde5eea2f09.jpg",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\17f3ba6d-9ac2-4866-ae35-fdde5eea2f09.jpg",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "products/17f3ba6d-9ac2-4866-ae35-fdde5eea2f09.jpg",
       "AssetKind": "All",
@@ -2506,10 +2506,10 @@
       "OriginalItemSpec": "wwwroot\\products\\17f3ba6d-9ac2-4866-ae35-fdde5eea2f09.jpg"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\products\\account.png",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\account.png",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "products/account.png",
       "AssetKind": "All",
@@ -2525,10 +2525,29 @@
       "OriginalItemSpec": "wwwroot\\products\\account.png"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\products\\b0b302b55a0a58221bcac8106dc8e8db.jpeg",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\Apel Fuji.jfif",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
+      "BasePath": "_content/ManageMart",
+      "RelativePath": "products/Apel Fuji.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\products\\Apel Fuji.jfif"
+    },
+    {
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\b0b302b55a0a58221bcac8106dc8e8db.jpeg",
+      "SourceId": "ManageMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "products/b0b302b55a0a58221bcac8106dc8e8db.jpeg",
       "AssetKind": "All",
@@ -2544,10 +2563,29 @@
       "OriginalItemSpec": "wwwroot\\products\\b0b302b55a0a58221bcac8106dc8e8db.jpeg"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\products\\beng-beng_beng-beng_regular_-25_gr_x_17_pcs-_full05_n11d6dh8.webp",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\Bayam Hijau.jfif",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
+      "BasePath": "_content/ManageMart",
+      "RelativePath": "products/Bayam Hijau.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\products\\Bayam Hijau.jfif"
+    },
+    {
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\beng-beng_beng-beng_regular_-25_gr_x_17_pcs-_full05_n11d6dh8.webp",
+      "SourceId": "ManageMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "products/beng-beng_beng-beng_regular_-25_gr_x_17_pcs-_full05_n11d6dh8.webp",
       "AssetKind": "All",
@@ -2563,10 +2601,29 @@
       "OriginalItemSpec": "wwwroot\\products\\beng-beng_beng-beng_regular_-25_gr_x_17_pcs-_full05_n11d6dh8.webp"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\products\\blender.jpg",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\beras.jfif",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
+      "BasePath": "_content/ManageMart",
+      "RelativePath": "products/beras.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\products\\beras.jfif"
+    },
+    {
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\blender.jpg",
+      "SourceId": "ManageMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "products/blender.jpg",
       "AssetKind": "All",
@@ -2582,10 +2639,10 @@
       "OriginalItemSpec": "wwwroot\\products\\blender.jpg"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\products\\bn8e34.webp",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\bn8e34.webp",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "products/bn8e34.webp",
       "AssetKind": "All",
@@ -2601,10 +2658,10 @@
       "OriginalItemSpec": "wwwroot\\products\\bn8e34.webp"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\products\\brd-44261_dua-kelinci-tic-tac-snack-pilus-tictac-sapi-panggang-mix100-g_full01-00600d06.webp",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\brd-44261_dua-kelinci-tic-tac-snack-pilus-tictac-sapi-panggang-mix100-g_full01-00600d06.webp",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "products/brd-44261_dua-kelinci-tic-tac-snack-pilus-tictac-sapi-panggang-mix100-g_full01-00600d06.webp",
       "AssetKind": "All",
@@ -2620,10 +2677,29 @@
       "OriginalItemSpec": "wwwroot\\products\\brd-44261_dua-kelinci-tic-tac-snack-pilus-tictac-sapi-panggang-mix100-g_full01-00600d06.webp"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\products\\chocolatos.jpg",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\Chiz Crackers Rasa Keju.jfif",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
+      "BasePath": "_content/ManageMart",
+      "RelativePath": "products/Chiz Crackers Rasa Keju.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\products\\Chiz Crackers Rasa Keju.jfif"
+    },
+    {
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\chocolatos.jpg",
+      "SourceId": "ManageMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "products/chocolatos.jpg",
       "AssetKind": "All",
@@ -2639,10 +2715,86 @@
       "OriginalItemSpec": "wwwroot\\products\\chocolatos.jpg"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\products\\download.jfif",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\CocaCola.jfif",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
+      "BasePath": "_content/ManageMart",
+      "RelativePath": "products/CocaCola.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\products\\CocaCola.jfif"
+    },
+    {
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\Cokelat Batang Susu.jfif",
+      "SourceId": "ManageMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
+      "BasePath": "_content/ManageMart",
+      "RelativePath": "products/Cokelat Batang Susu.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\products\\Cokelat Batang Susu.jfif"
+    },
+    {
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\Daging Ayam Broiler.jfif",
+      "SourceId": "ManageMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
+      "BasePath": "_content/ManageMart",
+      "RelativePath": "products/Daging Ayam Broiler.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\products\\Daging Ayam Broiler.jfif"
+    },
+    {
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\Deterjen Bubuk.jfif",
+      "SourceId": "ManageMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
+      "BasePath": "_content/ManageMart",
+      "RelativePath": "products/Deterjen Bubuk.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\products\\Deterjen Bubuk.jfif"
+    },
+    {
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\download.jfif",
+      "SourceId": "ManageMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "products/download.jfif",
       "AssetKind": "All",
@@ -2658,10 +2810,10 @@
       "OriginalItemSpec": "wwwroot\\products\\download.jfif"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\products\\f6d4b6edda4183c2a32b762233d596ed.jpg",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\f6d4b6edda4183c2a32b762233d596ed.jpg",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "products/f6d4b6edda4183c2a32b762233d596ed.jpg",
       "AssetKind": "All",
@@ -2677,10 +2829,48 @@
       "OriginalItemSpec": "wwwroot\\products\\f6d4b6edda4183c2a32b762233d596ed.jpg"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\products\\leci.png",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\Gula Pasir Putih.jfif",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
+      "BasePath": "_content/ManageMart",
+      "RelativePath": "products/Gula Pasir Putih.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\products\\Gula Pasir Putih.jfif"
+    },
+    {
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\Kue Bolu Susu.jfif",
+      "SourceId": "ManageMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
+      "BasePath": "_content/ManageMart",
+      "RelativePath": "products/Kue Bolu Susu.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\products\\Kue Bolu Susu.jfif"
+    },
+    {
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\leci.png",
+      "SourceId": "ManageMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "products/leci.png",
       "AssetKind": "All",
@@ -2696,10 +2886,181 @@
       "OriginalItemSpec": "wwwroot\\products\\leci.png"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\products\\sarigandum.webp",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\Mie Instan Rasa Kari.jfif",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
+      "BasePath": "_content/ManageMart",
+      "RelativePath": "products/Mie Instan Rasa Kari.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\products\\Mie Instan Rasa Kari.jfif"
+    },
+    {
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\Minyak Goreng Sawit.jfif",
+      "SourceId": "ManageMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
+      "BasePath": "_content/ManageMart",
+      "RelativePath": "products/Minyak Goreng Sawit.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\products\\Minyak Goreng Sawit.jfif"
+    },
+    {
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\Pembersih Lantai.jfif",
+      "SourceId": "ManageMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
+      "BasePath": "_content/ManageMart",
+      "RelativePath": "products/Pembersih Lantai.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\products\\Pembersih Lantai.jfif"
+    },
+    {
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\Permen Jelly.jfif",
+      "SourceId": "ManageMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
+      "BasePath": "_content/ManageMart",
+      "RelativePath": "products/Permen Jelly.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\products\\Permen Jelly.jfif"
+    },
+    {
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\Pisang Cavendish.jfif",
+      "SourceId": "ManageMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
+      "BasePath": "_content/ManageMart",
+      "RelativePath": "products/Pisang Cavendish.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\products\\Pisang Cavendish.jfif"
+    },
+    {
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\Roti Tawar Gandum.jfif",
+      "SourceId": "ManageMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
+      "BasePath": "_content/ManageMart",
+      "RelativePath": "products/Roti Tawar Gandum.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\products\\Roti Tawar Gandum.jfif"
+    },
+    {
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\Sabun Cuci Piring.jfif",
+      "SourceId": "ManageMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
+      "BasePath": "_content/ManageMart",
+      "RelativePath": "products/Sabun Cuci Piring.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\products\\Sabun Cuci Piring.jfif"
+    },
+    {
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\Sabun Mandi Cair Antiseptik.jfif",
+      "SourceId": "ManageMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
+      "BasePath": "_content/ManageMart",
+      "RelativePath": "products/Sabun Mandi Cair Antiseptik.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\products\\Sabun Mandi Cair Antiseptik.jfif"
+    },
+    {
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\Sampo Anti Ketombe.jfif",
+      "SourceId": "ManageMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
+      "BasePath": "_content/ManageMart",
+      "RelativePath": "products/Sampo Anti Ketombe.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\products\\Sampo Anti Ketombe.jfif"
+    },
+    {
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\sarigandum.webp",
+      "SourceId": "ManageMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "products/sarigandum.webp",
       "AssetKind": "All",
@@ -2715,10 +3076,10 @@
       "OriginalItemSpec": "wwwroot\\products\\sarigandum.webp"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\products\\Screenshot_2021-07-10-Sosro-Fruit-Tea-Apel-Btl-500Ml-KlikIndomaret.png",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\Screenshot_2021-07-10-Sosro-Fruit-Tea-Apel-Btl-500Ml-KlikIndomaret.png",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "products/Screenshot_2021-07-10-Sosro-Fruit-Tea-Apel-Btl-500Ml-KlikIndomaret.png",
       "AssetKind": "All",
@@ -2734,10 +3095,10 @@
       "OriginalItemSpec": "wwwroot\\products\\Screenshot_2021-07-10-Sosro-Fruit-Tea-Apel-Btl-500Ml-KlikIndomaret.png"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\products\\selada.jpg",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\selada.jpg",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "products/selada.jpg",
       "AssetKind": "All",
@@ -2753,10 +3114,10 @@
       "OriginalItemSpec": "wwwroot\\products\\selada.jpg"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\products\\selada.png",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\selada.png",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "products/selada.png",
       "AssetKind": "All",
@@ -2772,10 +3133,29 @@
       "OriginalItemSpec": "wwwroot\\products\\selada.png"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\products\\susukentalmanis.jpg",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\Susu UHT Full Cream.jfif",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
+      "BasePath": "_content/ManageMart",
+      "RelativePath": "products/Susu UHT Full Cream.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\products\\Susu UHT Full Cream.jfif"
+    },
+    {
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\susukentalmanis.jpg",
+      "SourceId": "ManageMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "products/susukentalmanis.jpg",
       "AssetKind": "All",
@@ -2791,10 +3171,67 @@
       "OriginalItemSpec": "wwwroot\\products\\susukentalmanis.jpg"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\products\\write_10767569.png",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\Telur Ayam Kampung.jfif",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
+      "BasePath": "_content/ManageMart",
+      "RelativePath": "products/Telur Ayam Kampung.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\products\\Telur Ayam Kampung.jfif"
+    },
+    {
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\Telur Ayam Ras.jfif",
+      "SourceId": "ManageMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
+      "BasePath": "_content/ManageMart",
+      "RelativePath": "products/Telur Ayam Ras.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\products\\Telur Ayam Ras.jfif"
+    },
+    {
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\Tepung Terigu Protein Tinggi.jfif",
+      "SourceId": "ManageMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
+      "BasePath": "_content/ManageMart",
+      "RelativePath": "products/Tepung Terigu Protein Tinggi.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\products\\Tepung Terigu Protein Tinggi.jfif"
+    },
+    {
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\write_10767569.png",
+      "SourceId": "ManageMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "products/write_10767569.png",
       "AssetKind": "All",
@@ -2810,10 +3247,29 @@
       "OriginalItemSpec": "wwwroot\\products\\write_10767569.png"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\1_nvmfpwiv_mSEy2cD0xYZBQ.png",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\products\\Yoghurt Rasa Stroberi.jfif",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
+      "BasePath": "_content/ManageMart",
+      "RelativePath": "products/Yoghurt Rasa Stroberi.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\products\\Yoghurt Rasa Stroberi.jfif"
+    },
+    {
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\1_nvmfpwiv_mSEy2cD0xYZBQ.png",
+      "SourceId": "ManageMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "upload/1_nvmfpwiv_mSEy2cD0xYZBQ.png",
       "AssetKind": "All",
@@ -2829,10 +3285,10 @@
       "OriginalItemSpec": "wwwroot\\upload\\1_nvmfpwiv_mSEy2cD0xYZBQ.png"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\1689000551915.jpg",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\1689000551915.jpg",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "upload/1689000551915.jpg",
       "AssetKind": "All",
@@ -2848,10 +3304,10 @@
       "OriginalItemSpec": "wwwroot\\upload\\1689000551915.jpg"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\1689000575480.jpg",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\1689000575480.jpg",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "upload/1689000575480.jpg",
       "AssetKind": "All",
@@ -2867,10 +3323,10 @@
       "OriginalItemSpec": "wwwroot\\upload\\1689000575480.jpg"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\1689476602719.jpg",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\1689476602719.jpg",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "upload/1689476602719.jpg",
       "AssetKind": "All",
@@ -2886,10 +3342,10 @@
       "OriginalItemSpec": "wwwroot\\upload\\1689476602719.jpg"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\1689476617556.jpg",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\1689476617556.jpg",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "upload/1689476617556.jpg",
       "AssetKind": "All",
@@ -2905,10 +3361,10 @@
       "OriginalItemSpec": "wwwroot\\upload\\1689476617556.jpg"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\22-16-31-1316292.jpeg",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\22-16-31-1316292.jpeg",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "upload/22-16-31-1316292.jpeg",
       "AssetKind": "All",
@@ -2924,10 +3380,10 @@
       "OriginalItemSpec": "wwwroot\\upload\\22-16-31-1316292.jpeg"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\37. Carlo Sembiring .jpg",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\37. Carlo Sembiring .jpg",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "upload/37. Carlo Sembiring .jpg",
       "AssetKind": "All",
@@ -2943,10 +3399,10 @@
       "OriginalItemSpec": "wwwroot\\upload\\37. Carlo Sembiring .jpg"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\category.png",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\category.png",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "upload/category.png",
       "AssetKind": "All",
@@ -2962,10 +3418,10 @@
       "OriginalItemSpec": "wwwroot\\upload\\category.png"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\desktop-wallpaper-dark-badass-anime-red-and-black-anime-aesthetic-thumbnail.jpg",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\desktop-wallpaper-dark-badass-anime-red-and-black-anime-aesthetic-thumbnail.jpg",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "upload/desktop-wallpaper-dark-badass-anime-red-and-black-anime-aesthetic-thumbnail.jpg",
       "AssetKind": "All",
@@ -2981,10 +3437,10 @@
       "OriginalItemSpec": "wwwroot\\upload\\desktop-wallpaper-dark-badass-anime-red-and-black-anime-aesthetic-thumbnail.jpg"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\despicable-me-4-3440x1440-14743.jpg",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\despicable-me-4-3440x1440-14743.jpg",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "upload/despicable-me-4-3440x1440-14743.jpg",
       "AssetKind": "All",
@@ -3000,10 +3456,10 @@
       "OriginalItemSpec": "wwwroot\\upload\\despicable-me-4-3440x1440-14743.jpg"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\download.jfif",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\download.jfif",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "upload/download.jfif",
       "AssetKind": "All",
@@ -3019,10 +3475,10 @@
       "OriginalItemSpec": "wwwroot\\upload\\download.jfif"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\frog-pixel.gif",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\frog-pixel.gif",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "upload/frog-pixel.gif",
       "AssetKind": "All",
@@ -3038,10 +3494,10 @@
       "OriginalItemSpec": "wwwroot\\upload\\frog-pixel.gif"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\IMG_20230926_163659.jpg",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\IMG_20230926_163659.jpg",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "upload/IMG_20230926_163659.jpg",
       "AssetKind": "All",
@@ -3057,10 +3513,10 @@
       "OriginalItemSpec": "wwwroot\\upload\\IMG_20230926_163659.jpg"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\IMG-20240218-WA0020.jpg",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\IMG-20240218-WA0020.jpg",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "upload/IMG-20240218-WA0020.jpg",
       "AssetKind": "All",
@@ -3076,10 +3532,10 @@
       "OriginalItemSpec": "wwwroot\\upload\\IMG-20240218-WA0020.jpg"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\Peringatan Terkait Phishing.jpg",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\Peringatan Terkait Phishing.jpg",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "upload/Peringatan Terkait Phishing.jpg",
       "AssetKind": "All",
@@ -3095,10 +3551,10 @@
       "OriginalItemSpec": "wwwroot\\upload\\Peringatan Terkait Phishing.jpg"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\Picsart_24-03-30_09-42-13-960.jpg",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\Picsart_24-03-30_09-42-13-960.jpg",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "upload/Picsart_24-03-30_09-42-13-960.jpg",
       "AssetKind": "All",
@@ -3114,10 +3570,10 @@
       "OriginalItemSpec": "wwwroot\\upload\\Picsart_24-03-30_09-42-13-960.jpg"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\teacher1.jpg",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\teacher1.jpg",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "upload/teacher1.jpg",
       "AssetKind": "All",
@@ -3133,10 +3589,10 @@
       "OriginalItemSpec": "wwwroot\\upload\\teacher1.jpg"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\teacher2.jpg",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\teacher2.jpg",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "upload/teacher2.jpg",
       "AssetKind": "All",
@@ -3152,10 +3608,10 @@
       "OriginalItemSpec": "wwwroot\\upload\\teacher2.jpg"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\teacher3.jpg",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\teacher3.jpg",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "upload/teacher3.jpg",
       "AssetKind": "All",
@@ -3171,10 +3627,10 @@
       "OriginalItemSpec": "wwwroot\\upload\\teacher3.jpg"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\teacher4.jpg",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\teacher4.jpg",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "upload/teacher4.jpg",
       "AssetKind": "All",
@@ -3190,10 +3646,10 @@
       "OriginalItemSpec": "wwwroot\\upload\\teacher4.jpg"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\teacher5.jpg",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\teacher5.jpg",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "upload/teacher5.jpg",
       "AssetKind": "All",
@@ -3209,10 +3665,10 @@
       "OriginalItemSpec": "wwwroot\\upload\\teacher5.jpg"
     },
     {
-      "Identity": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\upload\\teacher6.jpg",
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\teacher6.jpg",
       "SourceId": "ManageMart",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T0MM11Y\\Documents\\MvCd0tNetProyek\\ManageMart\\wwwroot\\",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
       "BasePath": "_content/ManageMart",
       "RelativePath": "upload/teacher6.jpg",
       "AssetKind": "All",
@@ -3226,6 +3682,234 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\upload\\teacher6.jpg"
+    },
+    {
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\teams_1.png",
+      "SourceId": "ManageMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
+      "BasePath": "_content/ManageMart",
+      "RelativePath": "upload/teams_1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\teams_1.png"
+    },
+    {
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\teams_4.png",
+      "SourceId": "ManageMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
+      "BasePath": "_content/ManageMart",
+      "RelativePath": "upload/teams_4.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\teams_4.png"
+    },
+    {
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\upstream_16.png",
+      "SourceId": "ManageMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
+      "BasePath": "_content/ManageMart",
+      "RelativePath": "upload/upstream_16.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\upstream_16.png"
+    },
+    {
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\vibrent_19.png",
+      "SourceId": "ManageMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
+      "BasePath": "_content/ManageMart",
+      "RelativePath": "upload/vibrent_19.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\vibrent_19.png"
+    },
+    {
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\vibrent_20.png",
+      "SourceId": "ManageMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
+      "BasePath": "_content/ManageMart",
+      "RelativePath": "upload/vibrent_20.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\vibrent_20.png"
+    },
+    {
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\vibrent_21.png",
+      "SourceId": "ManageMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
+      "BasePath": "_content/ManageMart",
+      "RelativePath": "upload/vibrent_21.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\vibrent_21.png"
+    },
+    {
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\vibrent_22.png",
+      "SourceId": "ManageMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
+      "BasePath": "_content/ManageMart",
+      "RelativePath": "upload/vibrent_22.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\vibrent_22.png"
+    },
+    {
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\vibrent_23.png",
+      "SourceId": "ManageMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
+      "BasePath": "_content/ManageMart",
+      "RelativePath": "upload/vibrent_23.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\vibrent_23.png"
+    },
+    {
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\vibrent_24.png",
+      "SourceId": "ManageMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
+      "BasePath": "_content/ManageMart",
+      "RelativePath": "upload/vibrent_24.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\vibrent_24.png"
+    },
+    {
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\vibrent_25.png",
+      "SourceId": "ManageMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
+      "BasePath": "_content/ManageMart",
+      "RelativePath": "upload/vibrent_25.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\vibrent_25.png"
+    },
+    {
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\vibrent_26.png",
+      "SourceId": "ManageMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
+      "BasePath": "_content/ManageMart",
+      "RelativePath": "upload/vibrent_26.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\vibrent_26.png"
+    },
+    {
+      "Identity": "t:\\ASPNETCORE\\ManageMart\\wwwroot\\upload\\vibrent_27.png",
+      "SourceId": "ManageMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "T:\\ASPNETCORE\\ManageMart\\wwwroot\\",
+      "BasePath": "_content/ManageMart",
+      "RelativePath": "upload/vibrent_27.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\vibrent_27.png"
     }
   ]
 }

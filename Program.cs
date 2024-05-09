@@ -19,13 +19,13 @@ builder.Services.AddDbContext<AppDbContext>(options =>
                 maxRetryCount: 5,
                 maxRetryDelay: TimeSpan.FromSeconds(30),
                 errorNumbersToAdd: null)));
-builder.Services.AddDefaultIdentity<IdentityUser>() 
+builder.Services.AddDefaultIdentity<IdentityUser>()
     .AddEntityFrameworkStores<AppDbContext>();
 
 // Add Authentication services
 builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
     .AddCookie(options =>
-    {   
+    {
         options.LoginPath = "/Account/Login";
     });
 
